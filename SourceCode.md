@@ -1,0 +1,7 @@
+# Source Releases #
+
+You can find the source corresponding to a given binary release of PunchClock in the Downloads area.
+
+# Repository #
+
+We use "git" (started by Linus Torvalds) for source control. I develop PunchClock locally using git and then periodically push to the public repository. Feel free to clone the repository and do your own development locally.
